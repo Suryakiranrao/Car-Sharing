@@ -14,7 +14,10 @@ This is Web application to Plan Shared Journey with fellow Users.
 * JavaScript
 * Bootstrap
 * Jquery
+
 ![alt text](./images_Car%20sharing/10.JPG)
+
+
 The Car Sharing App has benn created with all the following features:<br/>
 
 1.Secure Sign up system with email validation using modern encryption methods.<br/>
