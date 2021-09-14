@@ -36,6 +36,7 @@ The Car Sharing App has benn created with all the following features:<br/>
   &nbsp;&nbsp;&nbsp;3)Trips Deleting.<br/>
   &nbsp;&nbsp;&nbsp;4)Searching for the trips.<br/>
 
-4.There is also a Profile page where the user is able to change the Profile Picture, Username, Password and even the Email<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address using a secure system.
+4.There is also a Profile page where the user is able to change the Profile Picture, Username, Password and <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;even the Email address using a secure system.
+  
 
